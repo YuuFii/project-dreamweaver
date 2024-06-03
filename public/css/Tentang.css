@@ -1,0 +1,52 @@
+.tentang {
+    height: 151px;
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    color: #F96D00;
+}
+
+.container-tentang {
+    display: flex;
+    justify-content: center;
+}
+
+.container-tentang p {
+    width: 402px;
+    text-align: justify;
+    margin-left: 30px;
+    color: black;
+}
+
+.perusahaan {
+    width: 310px;
+}
+
+.kotak5 {
+    background-color: #393E46;
+    width: 360px;
+    height: 230px;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.kotak-container5 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.judul4 {
+    font-size: larger;
+}
+
+.teks5 {
+    margin-left: 20px;
+    margin-right: 20px;
+}

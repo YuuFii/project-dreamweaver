@@ -1,0 +1,54 @@
+body {
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    background-color: white;
+    border: none;
+    color: #393E46;
+}
+
+.card-header {
+    background-color: #393E46;
+    color: white;
+    padding: 20px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-body img {
+    display: block;
+    margin: 0 auto;
+}
+
+.card-body .btn-primary {
+    background-color: #F96D00;
+    color: white;
+    border: none;
+    border-radius: 100px;
+    padding: 10px 20px;
+}
+
+.card-body .btn-primary:hover {
+    background-color: #E65C00;
+}
+
+.card-body p {
+    margin-bottom: 15px;
+}
+
+.card-body p strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.mt-28 {
+    margin-top: 28px;
+}
+
+.btn{
+    margin-bottom: 50px;
+}

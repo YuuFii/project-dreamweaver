@@ -1,0 +1,122 @@
+html, body {
+    margin : 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #393E46;
+    height: 100vh;
+}
+
+.Google img {
+    width: 10px;
+}
+
+.MainL2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+
+.SubMainL2 {
+    color: white;
+}
+
+.Login {
+    text-align: center;
+}
+
+.SubMainL22 {
+    /* display: flex; */
+    flex-direction: column;
+    align-items: center;
+}
+
+.SubMainL222 {
+    display: flex;
+}
+
+/* .SubMainL22>input {
+    width: 550px;
+} */
+
+.SubMainL22>p {
+    align-self: flex-start;
+}
+
+.SubMainL2>h3 {
+    margin-right: 90px;
+}
+
+.label-name {
+    display: block;
+    margin: 10px 10px 10px 0;
+}
+
+.label-username {
+    display: block;
+    margin: 10px 10px 10px 0;
+}
+
+.form-daftar {
+    align-items: center;
+    justify-content: space-around;
+    width: 1108px;
+    height: 559px;
+    display: flex;
+}
+
+.orang2 {
+    height: 427px;
+}
+
+.Title2 {
+    text-align: center;
+}
+
+.Create {
+    padding-top: 8px;
+    padding-left: 158px;
+    padding-right: 157px;
+    padding-bottom: 8px;
+    border-radius: 50px;
+    margin-top: 20px;
+    border-color: grey;
+    border-style: none;
+    background-color: #F96D00;
+}
+
+.Create a {
+    text-decoration: none;
+    color: white;
+}
+
+input[type="text"] {
+    height: 30px;
+    width: 186px;
+}
+
+
+input[type="password"] {
+    height: 30px;
+}
+
+.input-username {
+    margin-left: 20px;
+    width: 150px;
+}
+
+.MainL2 H1 {
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+.input2 [type="text"] {
+    width: 400px;
+}
+
+.input2 [type="password"] {
+    width: 400px;
+}
